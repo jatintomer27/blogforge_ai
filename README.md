@@ -136,7 +136,7 @@ These tasks are time-consuming and difficult to automate with a single LLM call.
 
 ## 🚀 Running the Application
 
-### **Local Setup**
+## Local Setup
 
 ### Prerequisites
 
@@ -200,12 +200,11 @@ http://localhost:8501
 
 ---
 
-### **Docker Setup**
+## Docker Setup
 
-### Prerequisites
+- If you don’t want to install dependencies locally, you can run the complete Blog Forge AI app directly using Docker.
 
-* Docker
-
+- [DockerHub Image](https://hub.docker.com/r/jatintomer/blogforge_ai)
 
 ---
 
