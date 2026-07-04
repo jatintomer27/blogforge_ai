@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "blogforge-ai"
+version = "0.1.0"
+description = """
+AI-powered agentic toolkit for blog content generation
+"""
+readme = "README.md"
+authors = [
+    { name = "Jatin Tomer" , email = "jatintomer27@gmail.com" }
+]
+requires-python = ">=3.11"
+keywords = [
+    "Agentic AI",
+    "Generative AI",
+    "AI Agents"
+]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.setuptools.packages.find]
+where = ["src"]
