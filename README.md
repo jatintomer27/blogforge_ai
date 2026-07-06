@@ -208,8 +208,9 @@ http://localhost:8501
 
 ---
 
-## 📸 Demo
+## 🎥 Demo
 
+![Application Demo](static/assets/demo.gif)
 
 ---
 
